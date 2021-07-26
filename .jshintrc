@@ -1,0 +1,10 @@
+{
+    "asi": true,
+    "maxdepth": 2,
+    "maxcomplexity": 8,
+    "maxparams": 3,
+    "maxstatements": 4,
+    "unused": true,
+    "undef": true,
+    "node": true
+}
