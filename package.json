@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha",
     "jshint": "npx jshint *.js",
-    "test-with-coverage": "nyc --reporter=text mocha",
+    "test-with-coverage": "nyc --reporter=text mocha"
   },
   "author": "Sten Pittet <sten.pittet@gmail.com>",
   "license": "ISC",
